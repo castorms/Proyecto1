@@ -1,0 +1,39 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Maestra.master.cs" Inherits="AplicacionWeb.Maestra" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        
+        
+            <asp:Menu ID="MenuAdmin" runat="server" Orientation="Horizontal">
+                <Items>
+                    <asp:MenuItem NavigateUrl="~/Registro.aspx" Text="Registro de Evaluador /" Value="Registro de Evaluador"></asp:MenuItem>
+                    <asp:MenuItem NavigateUrl="~/RegistroAdministradores.aspx" Text="Registro Administrador /" Value="Registro Administrador "></asp:MenuItem>
+                    <asp:MenuItem NavigateUrl="~/AsignarEvaluador.aspx" Text="Asignar Evaluador/" Value="Asignar Evaluador"></asp:MenuItem>
+                </Items>
+            </asp:Menu>
+            <asp:Menu ID="MenuVisitante" runat="server" Orientation="Horizontal">
+                <Items>
+                    <asp:MenuItem NavigateUrl="~/RegistroEmprendimiento.aspx" Text="Registro de Emprendimiento /" Value="Registro de Emprendimiento"></asp:MenuItem>
+                </Items>
+            </asp:Menu>
+            <asp:Menu ID="MenuEvaluador" runat="server" Orientation="Horizontal">
+                <Items>
+                    <asp:MenuItem NavigateUrl="~/AsignarEvaluacion.aspx" Text="AsignarEvaluacion /" Value="AsignarEvaluacion "></asp:MenuItem>
+                </Items>
+            </asp:Menu>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>

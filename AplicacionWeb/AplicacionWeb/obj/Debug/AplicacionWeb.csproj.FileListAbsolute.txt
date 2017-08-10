@@ -1,0 +1,262 @@
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\AplicacionWeb\AplicacionWeb\bin\ApplicationInsights.config
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\AplicacionWeb\AplicacionWeb\bin\roslyn\csc.exe
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\AplicacionWeb\AplicacionWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\AplicacionWeb\AplicacionWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\AplicacionWeb\AplicacionWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\AplicacionWeb\AplicacionWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\AplicacionWeb\AplicacionWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\AplicacionWeb\AplicacionWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\AplicacionWeb\AplicacionWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\AplicacionWeb\AplicacionWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\AplicacionWeb\AplicacionWeb\bin\roslyn\vbc.exe
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\AplicacionWeb\AplicacionWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\AplicacionWeb\AplicacionWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\AplicacionWeb\AplicacionWeb\bin\AplicacionWeb.dll.config
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\AplicacionWeb\AplicacionWeb\bin\AplicacionWeb.dll
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\AplicacionWeb\AplicacionWeb\bin\AplicacionWeb.pdb
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\AplicacionWeb\AplicacionWeb\bin\Acceso.dll
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\AplicacionWeb\AplicacionWeb\bin\EmpresaDominio.dll
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.Web.dll
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\AplicacionWeb\AplicacionWeb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\AplicacionWeb\AplicacionWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\AplicacionWeb\AplicacionWeb\bin\Acceso.pdb
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\AplicacionWeb\AplicacionWeb\bin\EmpresaDominio.pdb
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.Web.xml
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\AplicacionWeb\AplicacionWeb\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\AplicacionWeb\AplicacionWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\AplicacionWeb\AplicacionWeb\obj\Debug\AplicacionWeb.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\AplicacionWeb\AplicacionWeb\obj\Debug\AplicacionWeb.dll
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\AplicacionWeb\AplicacionWeb\obj\Debug\AplicacionWeb.pdb
+C:\Users\Javier\Desktop\AplicacionWeb\AplicacionWeb\obj\Debug\AplicacionWeb.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Desktop\AplicacionWeb\AplicacionWeb\obj\Debug\AplicacionWeb.dll
+C:\Users\Javier\Desktop\AplicacionWeb\AplicacionWeb\obj\Debug\AplicacionWeb.pdb
+C:\Users\Javier\Desktop\AplicacionWeb\AplicacionWeb\bin\ApplicationInsights.config
+C:\Users\Javier\Desktop\AplicacionWeb\AplicacionWeb\bin\roslyn\csc.exe
+C:\Users\Javier\Desktop\AplicacionWeb\AplicacionWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Javier\Desktop\AplicacionWeb\AplicacionWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Javier\Desktop\AplicacionWeb\AplicacionWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Javier\Desktop\AplicacionWeb\AplicacionWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Javier\Desktop\AplicacionWeb\AplicacionWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Javier\Desktop\AplicacionWeb\AplicacionWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Javier\Desktop\AplicacionWeb\AplicacionWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Javier\Desktop\AplicacionWeb\AplicacionWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Javier\Desktop\AplicacionWeb\AplicacionWeb\bin\roslyn\vbc.exe
+C:\Users\Javier\Desktop\AplicacionWeb\AplicacionWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Javier\Desktop\AplicacionWeb\AplicacionWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Javier\Desktop\AplicacionWeb\AplicacionWeb\bin\AplicacionWeb.dll.config
+C:\Users\Javier\Desktop\AplicacionWeb\AplicacionWeb\bin\AplicacionWeb.dll
+C:\Users\Javier\Desktop\AplicacionWeb\AplicacionWeb\bin\AplicacionWeb.pdb
+C:\Users\Javier\Desktop\AplicacionWeb\AplicacionWeb\bin\Acceso.dll
+C:\Users\Javier\Desktop\AplicacionWeb\AplicacionWeb\bin\EmpresaDominio.dll
+C:\Users\Javier\Desktop\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Javier\Desktop\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Javier\Desktop\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Javier\Desktop\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Javier\Desktop\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.Web.dll
+C:\Users\Javier\Desktop\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Javier\Desktop\AplicacionWeb\AplicacionWeb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Javier\Desktop\AplicacionWeb\AplicacionWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Javier\Desktop\AplicacionWeb\AplicacionWeb\bin\Acceso.pdb
+C:\Users\Javier\Desktop\AplicacionWeb\AplicacionWeb\bin\EmpresaDominio.pdb
+C:\Users\Javier\Desktop\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Javier\Desktop\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Javier\Desktop\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.Web.xml
+C:\Users\Javier\Desktop\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Javier\Desktop\AplicacionWeb\AplicacionWeb\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Javier\Desktop\AplicacionWeb\AplicacionWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\5 de Abril de 2017\AplicacionWeb\AplicacionWeb\obj\Debug\AplicacionWeb.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\5 de Abril de 2017\AplicacionWeb\AplicacionWeb\obj\Debug\AplicacionWeb.dll
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\5 de Abril de 2017\AplicacionWeb\AplicacionWeb\obj\Debug\AplicacionWeb.pdb
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\5 de Abril de 2017\AplicacionWeb\AplicacionWeb\bin\ApplicationInsights.config
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\5 de Abril de 2017\AplicacionWeb\AplicacionWeb\bin\roslyn\csc.exe
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\5 de Abril de 2017\AplicacionWeb\AplicacionWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\5 de Abril de 2017\AplicacionWeb\AplicacionWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\5 de Abril de 2017\AplicacionWeb\AplicacionWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\5 de Abril de 2017\AplicacionWeb\AplicacionWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\5 de Abril de 2017\AplicacionWeb\AplicacionWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\5 de Abril de 2017\AplicacionWeb\AplicacionWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\5 de Abril de 2017\AplicacionWeb\AplicacionWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\5 de Abril de 2017\AplicacionWeb\AplicacionWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\5 de Abril de 2017\AplicacionWeb\AplicacionWeb\bin\roslyn\vbc.exe
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\5 de Abril de 2017\AplicacionWeb\AplicacionWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\5 de Abril de 2017\AplicacionWeb\AplicacionWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\5 de Abril de 2017\AplicacionWeb\AplicacionWeb\bin\AplicacionWeb.dll.config
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\5 de Abril de 2017\AplicacionWeb\AplicacionWeb\bin\AplicacionWeb.dll
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\5 de Abril de 2017\AplicacionWeb\AplicacionWeb\bin\AplicacionWeb.pdb
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\5 de Abril de 2017\AplicacionWeb\AplicacionWeb\bin\Acceso.dll
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\5 de Abril de 2017\AplicacionWeb\AplicacionWeb\bin\EmpresaDominio.dll
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\5 de Abril de 2017\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\5 de Abril de 2017\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\5 de Abril de 2017\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\5 de Abril de 2017\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\5 de Abril de 2017\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.Web.dll
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\5 de Abril de 2017\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\5 de Abril de 2017\AplicacionWeb\AplicacionWeb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\5 de Abril de 2017\AplicacionWeb\AplicacionWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\5 de Abril de 2017\AplicacionWeb\AplicacionWeb\bin\Acceso.pdb
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\5 de Abril de 2017\AplicacionWeb\AplicacionWeb\bin\EmpresaDominio.pdb
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\5 de Abril de 2017\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\5 de Abril de 2017\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\5 de Abril de 2017\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.Web.xml
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\5 de Abril de 2017\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\5 de Abril de 2017\AplicacionWeb\AplicacionWeb\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\5 de Abril de 2017\AplicacionWeb\AplicacionWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\18 DE ABRIL DE 2017\AplicacionWeb\AplicacionWeb\bin\ApplicationInsights.config
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\18 DE ABRIL DE 2017\AplicacionWeb\AplicacionWeb\bin\roslyn\csc.exe
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\18 DE ABRIL DE 2017\AplicacionWeb\AplicacionWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\18 DE ABRIL DE 2017\AplicacionWeb\AplicacionWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\18 DE ABRIL DE 2017\AplicacionWeb\AplicacionWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\18 DE ABRIL DE 2017\AplicacionWeb\AplicacionWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\18 DE ABRIL DE 2017\AplicacionWeb\AplicacionWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\18 DE ABRIL DE 2017\AplicacionWeb\AplicacionWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\18 DE ABRIL DE 2017\AplicacionWeb\AplicacionWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\18 DE ABRIL DE 2017\AplicacionWeb\AplicacionWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\18 DE ABRIL DE 2017\AplicacionWeb\AplicacionWeb\bin\roslyn\vbc.exe
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\18 DE ABRIL DE 2017\AplicacionWeb\AplicacionWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\18 DE ABRIL DE 2017\AplicacionWeb\AplicacionWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\18 DE ABRIL DE 2017\AplicacionWeb\AplicacionWeb\bin\AplicacionWeb.dll.config
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\18 DE ABRIL DE 2017\AplicacionWeb\AplicacionWeb\bin\AplicacionWeb.dll
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\18 DE ABRIL DE 2017\AplicacionWeb\AplicacionWeb\bin\AplicacionWeb.pdb
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\18 DE ABRIL DE 2017\AplicacionWeb\AplicacionWeb\bin\Acceso.dll
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\18 DE ABRIL DE 2017\AplicacionWeb\AplicacionWeb\bin\EmpresaDominio.dll
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\18 DE ABRIL DE 2017\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\18 DE ABRIL DE 2017\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\18 DE ABRIL DE 2017\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\18 DE ABRIL DE 2017\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\18 DE ABRIL DE 2017\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.Web.dll
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\18 DE ABRIL DE 2017\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\18 DE ABRIL DE 2017\AplicacionWeb\AplicacionWeb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\18 DE ABRIL DE 2017\AplicacionWeb\AplicacionWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\18 DE ABRIL DE 2017\AplicacionWeb\AplicacionWeb\bin\Acceso.pdb
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\18 DE ABRIL DE 2017\AplicacionWeb\AplicacionWeb\bin\EmpresaDominio.pdb
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\18 DE ABRIL DE 2017\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\18 DE ABRIL DE 2017\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\18 DE ABRIL DE 2017\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.Web.xml
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\18 DE ABRIL DE 2017\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\18 DE ABRIL DE 2017\AplicacionWeb\AplicacionWeb\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\18 DE ABRIL DE 2017\AplicacionWeb\AplicacionWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\18 DE ABRIL DE 2017\AplicacionWeb\AplicacionWeb\obj\Debug\AplicacionWeb.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\18 DE ABRIL DE 2017\AplicacionWeb\AplicacionWeb\obj\Debug\AplicacionWeb.dll
+C:\Users\Usuario\Desktop\Nico 2017\Programacion 3\Obligatorio\18 DE ABRIL DE 2017\AplicacionWeb\AplicacionWeb\obj\Debug\AplicacionWeb.pdb
+C:\Users\Andres\Desktop\AplicacionWeb\AplicacionWeb\bin\ApplicationInsights.config
+C:\Users\Andres\Desktop\AplicacionWeb\AplicacionWeb\bin\roslyn\csc.exe
+C:\Users\Andres\Desktop\AplicacionWeb\AplicacionWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Andres\Desktop\AplicacionWeb\AplicacionWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Andres\Desktop\AplicacionWeb\AplicacionWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Andres\Desktop\AplicacionWeb\AplicacionWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Andres\Desktop\AplicacionWeb\AplicacionWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Andres\Desktop\AplicacionWeb\AplicacionWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Andres\Desktop\AplicacionWeb\AplicacionWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Andres\Desktop\AplicacionWeb\AplicacionWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Andres\Desktop\AplicacionWeb\AplicacionWeb\bin\roslyn\vbc.exe
+C:\Users\Andres\Desktop\AplicacionWeb\AplicacionWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Andres\Desktop\AplicacionWeb\AplicacionWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Andres\Desktop\AplicacionWeb\AplicacionWeb\bin\AplicacionWeb.dll.config
+C:\Users\Andres\Desktop\AplicacionWeb\AplicacionWeb\bin\AplicacionWeb.dll
+C:\Users\Andres\Desktop\AplicacionWeb\AplicacionWeb\bin\AplicacionWeb.pdb
+C:\Users\Andres\Desktop\AplicacionWeb\AplicacionWeb\bin\Acceso.dll
+C:\Users\Andres\Desktop\AplicacionWeb\AplicacionWeb\bin\EmpresaDominio.dll
+C:\Users\Andres\Desktop\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Andres\Desktop\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Andres\Desktop\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Andres\Desktop\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Andres\Desktop\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.Web.dll
+C:\Users\Andres\Desktop\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Andres\Desktop\AplicacionWeb\AplicacionWeb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Andres\Desktop\AplicacionWeb\AplicacionWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Andres\Desktop\AplicacionWeb\AplicacionWeb\bin\Acceso.pdb
+C:\Users\Andres\Desktop\AplicacionWeb\AplicacionWeb\bin\EmpresaDominio.pdb
+C:\Users\Andres\Desktop\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Andres\Desktop\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Andres\Desktop\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.Web.xml
+C:\Users\Andres\Desktop\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Andres\Desktop\AplicacionWeb\AplicacionWeb\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Andres\Desktop\AplicacionWeb\AplicacionWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Andres\Desktop\AplicacionWeb\AplicacionWeb\obj\Debug\AplicacionWeb.csprojResolveAssemblyReference.cache
+C:\Users\Andres\Desktop\AplicacionWeb\AplicacionWeb\obj\Debug\AplicacionWeb.dll
+C:\Users\Andres\Desktop\AplicacionWeb\AplicacionWeb\obj\Debug\AplicacionWeb.pdb
+C:\Users\alumnoFI\Desktop\AplicacionWeb\AplicacionWeb\obj\Debug\AplicacionWeb.csprojResolveAssemblyReference.cache
+C:\Users\alumnoFI\Desktop\AplicacionWeb\AplicacionWeb\obj\Debug\AplicacionWeb.dll
+C:\Users\alumnoFI\Desktop\AplicacionWeb\AplicacionWeb\obj\Debug\AplicacionWeb.pdb
+C:\Users\Andres\Desktop\AplicacionWeb 26-04-2017\AplicacionWeb\AplicacionWeb\bin\ApplicationInsights.config
+C:\Users\Andres\Desktop\AplicacionWeb 26-04-2017\AplicacionWeb\AplicacionWeb\bin\roslyn\csc.exe
+C:\Users\Andres\Desktop\AplicacionWeb 26-04-2017\AplicacionWeb\AplicacionWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Andres\Desktop\AplicacionWeb 26-04-2017\AplicacionWeb\AplicacionWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Andres\Desktop\AplicacionWeb 26-04-2017\AplicacionWeb\AplicacionWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Andres\Desktop\AplicacionWeb 26-04-2017\AplicacionWeb\AplicacionWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Andres\Desktop\AplicacionWeb 26-04-2017\AplicacionWeb\AplicacionWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Andres\Desktop\AplicacionWeb 26-04-2017\AplicacionWeb\AplicacionWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Andres\Desktop\AplicacionWeb 26-04-2017\AplicacionWeb\AplicacionWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Andres\Desktop\AplicacionWeb 26-04-2017\AplicacionWeb\AplicacionWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Andres\Desktop\AplicacionWeb 26-04-2017\AplicacionWeb\AplicacionWeb\bin\roslyn\vbc.exe
+C:\Users\Andres\Desktop\AplicacionWeb 26-04-2017\AplicacionWeb\AplicacionWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Andres\Desktop\AplicacionWeb 26-04-2017\AplicacionWeb\AplicacionWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Andres\Desktop\AplicacionWeb 26-04-2017\AplicacionWeb\AplicacionWeb\bin\AplicacionWeb.dll.config
+C:\Users\Andres\Desktop\AplicacionWeb 26-04-2017\AplicacionWeb\AplicacionWeb\bin\AplicacionWeb.dll
+C:\Users\Andres\Desktop\AplicacionWeb 26-04-2017\AplicacionWeb\AplicacionWeb\bin\AplicacionWeb.pdb
+C:\Users\Andres\Desktop\AplicacionWeb 26-04-2017\AplicacionWeb\AplicacionWeb\bin\Acceso.dll
+C:\Users\Andres\Desktop\AplicacionWeb 26-04-2017\AplicacionWeb\AplicacionWeb\bin\EmpresaDominio.dll
+C:\Users\Andres\Desktop\AplicacionWeb 26-04-2017\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Andres\Desktop\AplicacionWeb 26-04-2017\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Andres\Desktop\AplicacionWeb 26-04-2017\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Andres\Desktop\AplicacionWeb 26-04-2017\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Andres\Desktop\AplicacionWeb 26-04-2017\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.Web.dll
+C:\Users\Andres\Desktop\AplicacionWeb 26-04-2017\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Andres\Desktop\AplicacionWeb 26-04-2017\AplicacionWeb\AplicacionWeb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Andres\Desktop\AplicacionWeb 26-04-2017\AplicacionWeb\AplicacionWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Andres\Desktop\AplicacionWeb 26-04-2017\AplicacionWeb\AplicacionWeb\bin\Acceso.pdb
+C:\Users\Andres\Desktop\AplicacionWeb 26-04-2017\AplicacionWeb\AplicacionWeb\bin\EmpresaDominio.pdb
+C:\Users\Andres\Desktop\AplicacionWeb 26-04-2017\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Andres\Desktop\AplicacionWeb 26-04-2017\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Andres\Desktop\AplicacionWeb 26-04-2017\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.Web.xml
+C:\Users\Andres\Desktop\AplicacionWeb 26-04-2017\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Andres\Desktop\AplicacionWeb 26-04-2017\AplicacionWeb\AplicacionWeb\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Andres\Desktop\AplicacionWeb 26-04-2017\AplicacionWeb\AplicacionWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Andres\Desktop\AplicacionWeb 26-04-2017\AplicacionWeb\AplicacionWeb\obj\Debug\AplicacionWeb.csprojResolveAssemblyReference.cache
+C:\Users\Andres\Desktop\AplicacionWeb 26-04-2017\AplicacionWeb\AplicacionWeb\obj\Debug\AplicacionWeb.dll
+C:\Users\Andres\Desktop\AplicacionWeb 26-04-2017\AplicacionWeb\AplicacionWeb\obj\Debug\AplicacionWeb.pdb
+C:\Users\Andres\Desktop\AplicacionWeb 1-05-2017\AplicacionWeb\AplicacionWeb\bin\ApplicationInsights.config
+C:\Users\Andres\Desktop\AplicacionWeb 1-05-2017\AplicacionWeb\AplicacionWeb\bin\roslyn\csc.exe
+C:\Users\Andres\Desktop\AplicacionWeb 1-05-2017\AplicacionWeb\AplicacionWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Andres\Desktop\AplicacionWeb 1-05-2017\AplicacionWeb\AplicacionWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Andres\Desktop\AplicacionWeb 1-05-2017\AplicacionWeb\AplicacionWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Andres\Desktop\AplicacionWeb 1-05-2017\AplicacionWeb\AplicacionWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Andres\Desktop\AplicacionWeb 1-05-2017\AplicacionWeb\AplicacionWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Andres\Desktop\AplicacionWeb 1-05-2017\AplicacionWeb\AplicacionWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Andres\Desktop\AplicacionWeb 1-05-2017\AplicacionWeb\AplicacionWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Andres\Desktop\AplicacionWeb 1-05-2017\AplicacionWeb\AplicacionWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Andres\Desktop\AplicacionWeb 1-05-2017\AplicacionWeb\AplicacionWeb\bin\roslyn\vbc.exe
+C:\Users\Andres\Desktop\AplicacionWeb 1-05-2017\AplicacionWeb\AplicacionWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Andres\Desktop\AplicacionWeb 1-05-2017\AplicacionWeb\AplicacionWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Andres\Desktop\AplicacionWeb 1-05-2017\AplicacionWeb\AplicacionWeb\bin\AplicacionWeb.dll.config
+C:\Users\Andres\Desktop\AplicacionWeb 1-05-2017\AplicacionWeb\AplicacionWeb\bin\AplicacionWeb.dll
+C:\Users\Andres\Desktop\AplicacionWeb 1-05-2017\AplicacionWeb\AplicacionWeb\bin\AplicacionWeb.pdb
+C:\Users\Andres\Desktop\AplicacionWeb 1-05-2017\AplicacionWeb\AplicacionWeb\bin\Acceso.dll
+C:\Users\Andres\Desktop\AplicacionWeb 1-05-2017\AplicacionWeb\AplicacionWeb\bin\EmpresaDominio.dll
+C:\Users\Andres\Desktop\AplicacionWeb 1-05-2017\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Andres\Desktop\AplicacionWeb 1-05-2017\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Andres\Desktop\AplicacionWeb 1-05-2017\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Andres\Desktop\AplicacionWeb 1-05-2017\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Andres\Desktop\AplicacionWeb 1-05-2017\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.Web.dll
+C:\Users\Andres\Desktop\AplicacionWeb 1-05-2017\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Andres\Desktop\AplicacionWeb 1-05-2017\AplicacionWeb\AplicacionWeb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Andres\Desktop\AplicacionWeb 1-05-2017\AplicacionWeb\AplicacionWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Andres\Desktop\AplicacionWeb 1-05-2017\AplicacionWeb\AplicacionWeb\bin\Acceso.pdb
+C:\Users\Andres\Desktop\AplicacionWeb 1-05-2017\AplicacionWeb\AplicacionWeb\bin\EmpresaDominio.pdb
+C:\Users\Andres\Desktop\AplicacionWeb 1-05-2017\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Andres\Desktop\AplicacionWeb 1-05-2017\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Andres\Desktop\AplicacionWeb 1-05-2017\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.Web.xml
+C:\Users\Andres\Desktop\AplicacionWeb 1-05-2017\AplicacionWeb\AplicacionWeb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Andres\Desktop\AplicacionWeb 1-05-2017\AplicacionWeb\AplicacionWeb\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Andres\Desktop\AplicacionWeb 1-05-2017\AplicacionWeb\AplicacionWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Andres\Desktop\AplicacionWeb 1-05-2017\AplicacionWeb\AplicacionWeb\obj\Debug\AplicacionWeb.csprojResolveAssemblyReference.cache
+C:\Users\Andres\Desktop\AplicacionWeb 1-05-2017\AplicacionWeb\AplicacionWeb\obj\Debug\AplicacionWeb.dll
+C:\Users\Andres\Desktop\AplicacionWeb 1-05-2017\AplicacionWeb\AplicacionWeb\obj\Debug\AplicacionWeb.pdb
